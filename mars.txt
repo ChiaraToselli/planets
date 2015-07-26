@@ -1,9 +1,10 @@
 Mars is a red planet.
 it is a rocky planet. 
 asdflkfakjkjlhsadklhj
-blahblahblah
-<<<<<<< HEAD
+blahblahbla
 sdafkhasfhdlkjahsflkdsahfklj
 =======
-abcd
->>>>>>> 2fbad282e3710ce727f662ee4963db053e7f3d29
+abc
+I just came to say hello......
+
+
